@@ -8,7 +8,7 @@
 * **ZUM LCD Smart ConnectorAdapter** - Adapter to connect ZUM LCD Smart Controller to bqCNC.
 * **ZUM CNC** - Controller board for Witbox 2 printer.
 
-##License
+## License
 
 <img src="./doc/LICENSE/by-sa.png" width="200" align = "center">
 
